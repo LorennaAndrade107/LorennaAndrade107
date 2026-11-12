@@ -1,18 +1,85 @@
-# 💫 Sobre mim:
-Desenvolvedora fullstack em formação<br>Estudante de Ciência da Computação<br>
+# 👩🏻‍💻 Lorenna Andrade
+
+<h3 align="center">
+  Estudante de Ciência da Computação <br>
+  Desenvolvedora Fullstack em formação
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lorenna-andrade-49a8813a8">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+  </a>
+</p>
+
+## 💫 Sobre mim
+
+Olá! Sou estudante de Ciência da Computação e desenvolvedora Fullstack em formação. Tenho interesse em desenvolvimento de software, aplicações web e banco de dados. Busco aprimorar minhas habilidades e desenvolver projetos na área da tecnologia.
+
+## 🚀 Minhas tecnologias
+
+### 💻 Linguagens de programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,javascript" />
+</p>
+
+### 🌐 Desenvolvimento Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### 🗄️ Banco de dados e análise de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,python" />
+</p>
+
+- Modelagem de banco de dados (DER)
+- Python com pandas
+- Power BI
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,windows" />
+</p>
+
+## 🧠 Conhecimentos
+
+- Algoritmos e lógica de programação
+- Estruturas de dados
+- Programação Orientada a Objetos (POO)
+- Desenvolvimento Front-end e Back-end
+- HTML5 e CSS3
+- JavaScript
+- Programação em Python e C
+- Modelagem e gerenciamento de banco de dados
+- SQL e consultas em banco de dados
+- Análise e organização de dados
+- Manipulação de dados com Pandas
+- Modelagem de banco de dados (DER)
+- Versionamento de código com Git e GitHub
+- Prototipação de interfaces com Figma
+- Desenvolvimento de projetos web
+
+## 💡 Projeto em destaque
+
+### 🏥 ResideOn
+
+Plataforma de estudos voltada para estudantes que se preparam para residências em Medicina e Psicologia.
+
+**Tecnologias:** HTML e CSS.
 
 
-## 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lorenna-andrade-49a8813a8) 
+## 🌎 Idiomas
 
-# 💻 Tecnologias:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.shion.dev/api?username=LorennaAndrade107&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LorennaAndrade107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LorennaAndrade107&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+- 🇫🇷 Francês — Básico
 
 ---
-[![](https://komarev.com/ghpvc/?username=LorennaAndrade107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <i>"Transformando conhecimento em soluções e ideias em projetos."</i>
+</p>
