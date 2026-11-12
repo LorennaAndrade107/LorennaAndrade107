@@ -51,11 +51,8 @@ Olá! Sou estudante de Ciência da Computação e desenvolvedora Fullstack em fo
 - Estruturas de dados
 - Programação Orientada a Objetos (POO)
 - Desenvolvimento Front-end e Back-end
-- HTML5 e CSS3
-- JavaScript
-- Programação em Python e C
 - Modelagem e gerenciamento de banco de dados
-- SQL e consultas em banco de dados
+- Consultas em banco de dados
 - Análise e organização de dados
 - Manipulação de dados com Pandas
 - Modelagem de banco de dados (DER)
