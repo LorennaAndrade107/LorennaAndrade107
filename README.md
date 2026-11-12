@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Análise de dados<br>Estudante de Ciência da Computação<br>
+desenvolvedor fullstack em formação<br>Estudante de Ciência da Computação<br>
 
 
 ## 🌐 Redes sociais:
