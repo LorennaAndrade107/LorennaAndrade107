@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-desenvolvedor fullstack em formação<br>Estudante de Ciência da Computação<br>
+Desenvolvedora fullstack em formação<br>Estudante de Ciência da Computação<br>
 
 
 ## 🌐 Redes sociais:
